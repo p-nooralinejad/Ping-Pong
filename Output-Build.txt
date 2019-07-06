@@ -1,0 +1,132 @@
+﻿1>------ Build started: Project: PingPong, Configuration: Debug Win32 ------
+1>  Action2.cpp
+1>  Generating Code...
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\action2.cpp(30): error C4716: 'Action2::findIndex1' : must return a value
+1>  Compiling...
+1>  toop.cpp
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(8): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(9): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(10): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(12): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(13): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(15): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(16): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(17): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(77): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(189): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(197): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(205): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(206): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(213): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(220): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(225): warning C4244: '=' : conversion from 'GLfloat' to 'int', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(233): warning C4018: '<' : signed/unsigned mismatch
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(237): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(238): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(255): warning C4101: 'a' : unreferenced local variable
+1>  show.cpp
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(8): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(23): warning C4305: '+=' : truncation from 'double' to 'float'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(32): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(34): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(38): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(40): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(42): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(44): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(52): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(54): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(58): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+1>          \\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(23) : definition of 'i' ignored
+1>          \\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(21) : definition of 'i' used
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(66): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+1>          \\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(23) : definition of 'i' ignored
+1>          \\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(21) : definition of 'i' used
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(68): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(68): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(68): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(75): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+1>          \\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(23) : definition of 'i' ignored
+1>          \\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(21) : definition of 'i' used
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(81): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(81): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(81): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(87): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+1>          \\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(23) : definition of 'i' ignored
+1>          \\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(21) : definition of 'i' used
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(90): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(90): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(90): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(97): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+1>          \\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(23) : definition of 'i' ignored
+1>          \\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(21) : definition of 'i' used
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(100): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(100): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(100): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(114): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(116): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(139): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(141): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(159): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(161): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(175): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(175): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(175): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(188): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(188): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(188): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(196): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(196): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(196): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(204): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(204): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(204): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(216): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(232): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(233): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(252): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(253): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(336): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(383): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(385): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(395): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(418): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(420): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(432): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(453): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(455): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(466): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(490): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\show.cpp(492): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>  raket.cpp
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(7): error C2661: 'Action2::Action2' : no overloaded function takes 4 arguments
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(11): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(17): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(19): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(20): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(21): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(22): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(25): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(29): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(120): warning C4305: '+=' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(151): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(155): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(157): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(162): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(162): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(162): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(164): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(165): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(165): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\raket.cpp(166): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+1>  ping r3.6.cpp
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\ping r3.6.cpp(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\texture.h(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\programs\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\texture.h(40): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\programs\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\declarations.h(56): warning C4018: '<' : signed/unsigned mismatch
+1>  Generating Code...
+1>\\sun\k_abbasi\xprofile\data\desktop\ping r3.6\toop.cpp(182): warning C4715: 'toop::manage' : not all control paths return a value
+1>  Skipping... (no relevant changes detected)
+1>  gameboard.cpp
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
